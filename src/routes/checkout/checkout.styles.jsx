@@ -8,7 +8,7 @@ export const CheckOutContainer = styled.div`
   align-items: center;
   margin: 50px auto 0;
 
-  @media (max-width: 390px) {
+  @media (max-width: 550px) {
   width: 90%; 
 } 
 `;
@@ -31,7 +31,7 @@ width: 22%;
     width: 17%;
   }
 
-  @media (max-width: 450px) {
+  @media (max-width: 550px) {
   width: 100%; 
   margin: 10px auto;
   justify-content:space-between;
@@ -49,7 +49,7 @@ display:flex;
 justify-content:space-between;
 margin-left:60px;
 
-@media (max-width: 450px) {
+@media (max-width: 550px) {
   width: 100%; 
   margin-left:10px;
   justify-content:space-between;

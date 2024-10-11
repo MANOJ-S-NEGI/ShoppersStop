@@ -11,7 +11,7 @@ export const PaymentFormContainer = styled.div`
   padding:20px;
   border-radius:20px;
 
-  @media (max-width: 450px) {
+  @media (max-width: 550px) {
   width:80Vw;
   
 } 
@@ -23,7 +23,7 @@ export const FormContainer = styled.form`
   margin-bottom:10px;
   margin-top:20px;
 
-  @media (max-width: 450px) {
+  @media (max-width: 550px) {
   width: 100%; 
   gap:10px;
   }

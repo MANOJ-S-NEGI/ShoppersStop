@@ -23,7 +23,7 @@ export const ImageContainer = styled.div`
 export const BaseSpan = styled.span`
   width: 23%;
 
-  @media (max-width: 390px)
+  @media (max-width: 550px)
    {  width: 23%;
      font-size:15px
   }
@@ -47,7 +47,7 @@ export const RemoveButton = styled.div`
   padding-left: 12px;
   cursor: pointer;
 
-  @media (max-width: 390px)
+  @media (max-width: 550px)
    {
     padding-left: 10px; 
     }

@@ -1,0 +1,20 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 10px 10px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  color:rgb(10, 5, 57);
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}

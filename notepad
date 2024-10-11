@@ -1,0 +1,12 @@
+/*
+
+npm i @stripe/react-stripe-js @stripe/stripe-js
+npm i stripe dotenv
+
+-------
+
+npm install -g netlify-cli
+netlify login
+netlify dev
+
+*/
